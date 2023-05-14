@@ -1,2 +1,3 @@
 # Telegram_BOT
-NSYSU_Python_HomeWork
+NSYSU Python HomeWork
+關於匯率的Telegram Bo
