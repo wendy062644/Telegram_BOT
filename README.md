@@ -1,3 +1,3 @@
 ## Telegram_BOT
 NSYSU Python HomeWork</br>
-關於匯率的Telegram Bot
+自動爬取貨幣匯率的程式
